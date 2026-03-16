@@ -1,0 +1,51 @@
+Date,Initials,Clinic,User,Reason,Note,Resolution,Ticket,Escalated,Technician,0-3,10-Apr,20-Nov,21-30,31+,Remote,3+ Topics,BP Reinst,JIRA
+10-Jan,KL,NY_pjh,James,Training,Workflow refresher,100000,False,False,True,False,True,False,True,False,False,False,True,False
+5-Jan,AB,MN_care,Kevin,Connectivity,VPN timeout,100001,False,True,True,False,True,False,False,False,True,False,True,False
+28-Jan,QR,MN_care,Ava,Hardware,Scanner jammed,100002,True,True,True,True,True,True,True,False,True,True,True,True
+25-Jan,ST,NY_pjh,Noah,Training,New module overview,100003,True,True,False,False,True,False,False,True,False,False,True,True
+14-Jan,WX,MN_care,Kevin,Hardware,Printer not responding,100004,False,True,True,True,False,False,True,False,True,True,True,False
+13-Jan,YZ,MN_care,James,Login Issue,Locked out after update,100005,True,True,False,False,True,True,True,True,True,True,True,False
+12-Jan,MN,NY_pjh,Chloe,Training,Needed walkthrough,100006,True,False,True,False,False,True,True,True,False,False,True,True
+23-Jan,IJ,NY_pjh,Noah,Hardware,Scanner jammed,100007,False,False,False,True,True,False,True,False,True,True,True,False
+14-Jan,KL,WI_clinic,Alex,Software Crash,Error 403 on submit,100008,False,False,False,False,True,False,True,False,False,False,False,False
+14-Jan,GH,NY_pjh,Olivia,Connectivity,VPN timeout,100009,True,False,True,False,False,False,False,True,False,True,False,True
+22-Jan,IJ,WI_clinic,Tom,Login Issue,MFA failed,100010,True,True,False,True,True,False,False,True,False,True,False,False
+19-Jan,UV,WI_clinic,Chloe,Hardware,Keyboard unresponsive,100011,False,True,True,True,True,True,False,False,False,True,False,True
+4-Jan,MN,WI_clinic,Grace,Login Issue,Locked out after update,100012,True,False,True,True,True,False,False,True,False,False,False,False
+22-Jan,MN,WI_clinic,Kevin,Hardware,Keyboard unresponsive,100013,False,True,True,True,True,False,True,False,True,True,False,False
+7-Jan,EF,WI_clinic,Rachel,Software Crash,App froze during input,100014,True,False,True,False,True,False,True,False,False,True,True,False
+23-Jan,WX,WI_clinic,Olivia,Login Issue,Password reset needed,100015,False,True,False,True,True,False,True,False,True,True,True,False
+18-Jan,GH,WI_clinic,James,Hardware,Monitor flickering,100016,True,True,True,True,True,True,True,False,True,True,True,True
+22-Jan,CD,WI_clinic,Linda,Login Issue,Locked out after update,100017,False,True,True,False,True,False,False,False,True,False,True,False
+21-Jan,CD,WI_clinic,Ethan,Login Issue,MFA expired,100018,True,True,True,True,False,True,False,False,True,False,True,False
+24-Jan,EF,NY_pjh,Tom,Login Issue,Locked out after update,100019,False,True,False,False,False,True,False,False,True,True,False,True
+15-Jan,CD,NY_pjh,Linda,Login Issue,MFA expired,100020,True,True,False,True,True,True,True,True,True,False,False,False
+10-Jan,IJ,NY_pjh,Dana,Hardware,Keyboard unresponsive,100021,False,False,False,False,False,True,True,False,False,True,False,True
+1-Jan,YZ,MN_care,Liam,Login Issue,Locked out after update,100022,False,True,False,False,False,False,False,True,False,True,False,True
+22-Jan,EF,WI_clinic,Ethan,Software Crash,App froze during input,100023,False,False,False,True,False,False,True,False,True,False,False,False
+13-Jan,UV,NY_pjh,Tom,Connectivity,VPN failed to connect,100024,False,True,False,False,True,True,False,True,True,True,True,False
+16-Jan,OP,NY_pjh,Noah,Hardware,Keyboard unresponsive,100025,False,True,True,True,True,True,False,False,False,True,True,True
+15-Jan,YZ,MN_care,Tom,Connectivity,VPN failed to connect,100026,True,True,False,True,False,True,True,True,True,True,True,True
+21-Jan,EF,NY_pjh,Ava,Software Crash,App closed unexpectedly,100027,False,False,True,False,True,False,False,True,True,False,True,False
+25-Jan,QR,NY_pjh,Olivia,Connectivity,Ethernet not detected,100028,False,True,False,False,False,False,True,True,True,False,True,False
+23-Jan,KL,WI_clinic,Rachel,Login Issue,MFA failed,100029,True,True,True,True,True,False,False,False,True,False,True,False
+26-Jan,WX,WI_clinic,Grace,Login Issue,Password reset needed,100030,False,False,False,True,False,True,False,True,True,True,True,True
+21-Jan,AB,MN_care,James,Training,New hire orientation,100031,False,False,False,True,True,False,True,True,False,True,False,False
+25-Jan,UV,MN_care,Megan,Hardware,Monitor flickering,100032,False,True,False,False,False,False,True,False,True,False,False,False
+18-Jan,MN,NY_pjh,Sarah,Connectivity,VPN timeout,100033,False,False,False,True,False,True,True,True,False,False,False,True
+24-Jan,OP,WI_clinic,Brian,Connectivity,Wi-Fi dropped repeatedly,100034,False,True,True,False,False,True,True,True,False,False,True,True
+14-Jan,KL,MN_care,Liam,Training,New hire orientation,100035,False,True,False,False,True,True,True,True,False,True,False,False
+4-Jan,OP,MN_care,Liam,Hardware,Printer not responding,100036,False,False,True,True,True,True,False,False,False,True,True,True
+22-Jan,IJ,NY_pjh,Ethan,Login Issue,Locked out after update,100037,False,False,True,False,True,False,False,False,True,False,True,True
+26-Jan,ST,NY_pjh,Henry,Login Issue,MFA expired,100038,True,True,False,False,False,False,True,False,False,False,True,True
+17-Jan,IJ,WI_clinic,Olivia,Software Crash,App closed unexpectedly,100039,False,False,True,False,False,False,False,True,False,True,True,False
+13-Jan,QR,WI_clinic,Alex,Hardware,Monitor flickering,100040,True,False,False,True,True,False,True,False,True,True,False,True
+26-Jan,IJ,MN_care,Ethan,Training,Needed walkthrough,100041,True,False,False,True,True,False,False,False,False,True,False,False
+25-Jan,CD,WI_clinic,Megan,Training,New hire orientation,100042,False,True,True,False,True,False,True,True,True,True,False,False
+14-Jan,YZ,WI_clinic,Chloe,Software Crash,Error 403 on submit,100043,True,False,False,True,True,False,True,True,False,False,False,False
+27-Jan,YZ,WI_clinic,Ethan,Connectivity,Wi-Fi dropped repeatedly,100044,False,True,False,False,False,True,False,False,True,False,True,True
+7-Jan,AB,NY_pjh,Olivia,Training,New module overview,100045,False,True,False,False,True,True,True,False,False,True,True,True
+17-Jan,WX,NY_pjh,Tom,Hardware,Scanner jammed,100046,False,False,False,False,False,True,False,True,True,True,True,True
+3-Jan,AB,WI_clinic,Olivia,Hardware,Printer not responding,100047,False,True,False,False,False,False,True,False,False,True,True,True
+1-Jan,OP,MN_care,Noah,Hardware,Scanner jammed,100048,False,False,False,True,False,False,True,True,True,False,True,True
+28-Jan,CD,WI_clinic,Rachel,Hardware,Scanner jammed,100049,True,False,True,True,False,True,True,False,True,True,False,True
