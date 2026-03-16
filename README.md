@@ -7,8 +7,11 @@ Synthetic dataset modeled after real call center logs. Includes timestamps, issu
 Objective:
 Identify top call reasons and interpret results
 
-Tools Used
+Tools Used:
 Python (pandas, matplotlib)
 
-Insights
-3rd party billing was the most common issue. Installation assistance was a basic issue type in the top 5. Looking into a way to fold in assistance with 3rd party billing during installation assistance to reduce total call volume.
+Insights:
+The top call reason is Hardware, this indicates that we should make sure that we have a minimum system requirements page
+on our website so that clients know whether their devices are compatible with our program. It's likely that the software
+crash issue could be related to incompatible hardware so reducing the number of hardware calls should also reduce the number
+of Software Crash calls.
