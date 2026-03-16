@@ -27,7 +27,7 @@ plt.show()
 
 #Findings/insights:
 
-'''Since the top call reason is Hardware, we should make sure that we have a minimum system requirements page
+'''The top call reason is Hardware, this indicates that we should make sure that we have a minimum system requirements page
 on our website so that clients know whether their devices are compatible with our program. It's likely that the software
 crash issue could be related to incompatible hardware so reducing the number of hardware calls should also reduce the number
 of Software Crash calls.
