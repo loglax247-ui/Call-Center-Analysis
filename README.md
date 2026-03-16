@@ -1,11 +1,11 @@
 Overview:
-This project analyzes call log data to identify the most common call reasons.
+This project analyzes artificial call log data to identify the most common call reasons.
 
 Dataset: 
 Synthetic dataset modeled after real call center logs. Includes timestamps, issue categories, call durations, and resolution status.
 
 Objective:
-Identify top call reasons
+Identify top call reasons and interpret results
 
 Tools Used
 Python (pandas, matplotlib)
